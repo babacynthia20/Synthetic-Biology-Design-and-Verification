@@ -19,3 +19,5 @@ N
 contracts/lab-integration.clar,b/c/bca124a0d05a72c84ab9f121a03f2c9599347f89
 M
 tests/lab-integration.test.ts,5/b/5bd9f9f91f7ce5c781842dcb45bf52d479e9a91c
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

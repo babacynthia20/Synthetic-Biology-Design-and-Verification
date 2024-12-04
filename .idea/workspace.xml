@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b1fc90-f0aa-4905-9e4f-4e02942ffd48" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clarinet.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Clarinet.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deployments/default.simnet-plan.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deployments/default.simnet-plan.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="e0b1fc90-f0aa-4905-9e4f-4e02942ffd48" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733324196637</updated>
-      <workItem from="1733324197790" duration="645000" />
+      <workItem from="1733324197790" duration="954000" />
     </task>
     <servers />
   </component>
