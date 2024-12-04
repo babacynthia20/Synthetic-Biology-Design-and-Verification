@@ -1,3 +1,3 @@
 
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+T
+$contracts/genetic-construct-nft.clar,f/5/f58cf1e70b0ef18909a1bcdf398d50ea179997ab
