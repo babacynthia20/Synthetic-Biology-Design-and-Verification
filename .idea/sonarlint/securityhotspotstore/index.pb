@@ -17,3 +17,5 @@ M
 tests/incentive-token.test.ts,a/b/abf3cab1df9a3f4be10cd8e17011284ba8dc3e42
 N
 contracts/lab-integration.clar,b/c/bca124a0d05a72c84ab9f121a03f2c9599347f89
+M
+tests/lab-integration.test.ts,5/b/5bd9f9f91f7ce5c781842dcb45bf52d479e9a91c
