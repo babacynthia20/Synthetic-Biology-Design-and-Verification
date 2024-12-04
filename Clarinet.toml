@@ -20,6 +20,10 @@ path = 'contracts/incentive-token.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.lab-integration]
+path = 'contracts/lab-integration.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
