@@ -13,3 +13,5 @@ N
 contracts/incentive-token.clar,1/f/1f914cc18a2a09183f2d31f6b866bbf3e65374db
 =
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+M
+tests/incentive-token.test.ts,a/b/abf3cab1df9a3f4be10cd8e17011284ba8dc3e42
